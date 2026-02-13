@@ -1,0 +1,1 @@
+Collaborated in a team to develop a Java-based cinema management system using object-oriented programming principles. The project included designing user interfaces in NetBeans and integrating the application with a MySQL database to handle operations such as movies, tickets, and bookings. This project strengthened my skills in OOP design and database integration.
